@@ -1,0 +1,24 @@
+Tìm hiểu về về Salesforce (in Products)
+
+Tìm hiểu quy trình của Cty -> Áp dụng salesforce vào công ty.
+
+PA Documents
+
+Phần tích quy trình kinh doah của Kyanon áp dựng salesforce quản lý data.
+
+Lên timeline  
+ - tìm hiểu input, feature,data.
+ 
+Quyết định xem các nào của salesforce ứng dụng cho cái nào.
+
+Sơ đồ gang.
+
+Trước 8h rưỡi hoặc sau 6h trừ T2,T6.
+
+
+
+
+
+Data Management Platform for Kyanon Technology
+
+1	5420670594	Nguyễn Quốc Thắng	nam	05/02/1995	5499769214	xuân mỹ, Xã Hòa Mỹ Đông, Huyện Tây Hoà, Tỉnh Phú Yên	Chưa đồng bộ
